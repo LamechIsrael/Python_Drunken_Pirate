@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python      #
 # Module 2 - Exercise 3 - Drunken Pirate#
 # Author: Lamech Israel                 #
-# Date:   01/17/2023                    #
+#                                       #
 #########################################
 
 import turtle
